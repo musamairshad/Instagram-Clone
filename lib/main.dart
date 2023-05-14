@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 // import 'package:instagram/views/splash_view.dart';
 import 'package:instagram/views/home_view.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
